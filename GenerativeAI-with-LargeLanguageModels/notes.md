@@ -130,7 +130,7 @@ P(w) =
 \end{cases}
 $$
 
-- $ |\mathcal{W}\_P| $ 是詞集 $ \mathcal{W}\_P $ 中的詞數。
+- $|\mathcal{W}\_P|$ 是詞集 $\mathcal{W}\_P$ 中的詞數。
 
 #### 作用
 
